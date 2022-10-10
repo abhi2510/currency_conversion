@@ -1,0 +1,8 @@
+To install requirements:
+pip install -r requirements.txt
+
+to run the code:
+python main.py
+
+to run the testcase:
+pytest tests/test_app.py
